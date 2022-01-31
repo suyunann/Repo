@@ -7,6 +7,5 @@ function colorFlip(){
         colorSym = colorSym + hex[colorCombine]; 
     }
     document.body.style.backgroundColor = colorSym;
-    document.getElementsByClassName('color').innerHTML = colorSym;
-
+    document.getElementById('color').innerHTML = colorSym;
 }
