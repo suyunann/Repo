@@ -203,6 +203,7 @@ main {
   text-align: center;
 }
 .container h2 {
+  
   background: var(--clr-black);
   color: var(--clr-white);
   padding: 1rem;
