@@ -157,12 +157,12 @@ Nav
 ===============
 */
 nav {
-  background: var(--clr-white);
-  height: 3rem;
+  background-color: rgb(253, 253, 253);
+  height: 3;
   display: grid;
   align-items: center;
   box-shadow: var(--dark-shadow);
-}
+} 
 .nav-center {
   width: 90vw;
   max-width: var(--fixed-width);
